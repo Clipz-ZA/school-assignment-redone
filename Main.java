@@ -57,8 +57,6 @@ public class Main{
         
         houseRes = (int) (Math.random()*2);
         
-        System.out.println(houseRes);
-        
         switch (houseRes){
         
             case 0 :
