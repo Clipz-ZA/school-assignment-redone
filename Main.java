@@ -88,9 +88,9 @@ public class Main{
         
         
         
-        System.out.println("*************************************");
-        System.out.println("***********HOUSE GENERATOR***********");
-        System.out.println("*************************************");
+        System.out.println("***********************************************");
+        System.out.println("****************HOUSE GENERATOR****************");
+        System.out.println("***********************************************");
         
         System.out.print("please insert the first students name>>");
         firstStudent.setName(input.next());
@@ -103,9 +103,9 @@ public class Main{
        
         
         
-        System.out.println("*************************************");
-        System.out.println("***********HOUSE GENERATOR***********");
-        System.out.println("*************************************");
+        System.out.println("***********************************************");
+        System.out.println("****************HOUSE GENERATOR****************");
+        System.out.println("***********************************************");
         
         generateHouseID(firstStudent);
         generateHouseID(secondStudent);
